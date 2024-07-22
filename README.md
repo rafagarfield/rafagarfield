@@ -16,7 +16,7 @@ Soy **fundador de Ebbiner**, una startup enfocada en el sector educativo, donde 
 
 ---
 
-### 🌱 Idiomas
+### 🌐 Idiomas
 
 - Español (nativo)
 - Inglés (intermedio básico)
