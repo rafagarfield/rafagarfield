@@ -1,6 +1,6 @@
 ## 👋 ¡Hola! Soy Rafael García
 
-Vivo en Perú y soy **Desarrollador Full Stack** con una sólida formación en **Ingeniería de Sistemas**, obtenida en la Universidad San Cristóbal de Huamanga. Con 2 años de experiencia en el diseño y desarrollo de software, actualmente estoy completando un bootcamp en **Henry** con enfoque en **Frontend**.
+Vivo en Perú y soy **Desarrollador Full Stack** con una sólida formación en **Ingeniería de Sistemas**, obtenida en la Universidad San Cristóbal de Huamanga. Con 2 años de experiencia que involucra el desarrollo de software y el diseño, actualmente he completado el bootcamp en **Henry** con enfoque en **Frontend**.
 
 Soy **fundador de Ebbiner**, una startup enfocada en el sector educativo, donde he liderado la creación de productos tecnológicos innovadores.
 
