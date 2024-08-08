@@ -12,7 +12,6 @@ Soy **fundador de Ebbiner**, una startup enfocada en el sector educativo, donde 
 - **Frontend**: HTML, CSS, SCSS, Tailwind CSS, React, Next.js
 - **Backend**: Express
 - **Diseño**: Figma
-- **Otros**: Next.js (frecuentemente utilizado)
 
 ---
 
